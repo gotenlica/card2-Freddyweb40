@@ -1,0 +1,64 @@
+body {
+  background-color: hsl(225, 100%, 94%);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  background-color: white;
+  width: 305px;
+  height: 87vh;
+  border-radius: 20px;
+  text-align: center;
+  align-content: center;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  position: relative;
+  left: 8%;
+}
+
+.payment {
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+  font-size: 14px;
+  border-radius: 10px;
+  margin: 15px;
+}
+p {
+  padding: 15px;
+  color: gray;
+}
+
+.cancel-orden {
+  text-decoration: none;
+  color: gray;
+  margin: 10px;
+}
+
+.change {
+  text-decoration: none;
+  color: hsl(245, 75%, 52%);
+}
+
+h4 {
+  color: gray;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+img {
+  border-radius: 20px 20px 0 0;
+  width: 305px;
+}
+
+button {
+  width: 270px;
+  height: 50px;
+  color: white;
+  background-color: hsl(245, 75%, 52%);
+  border-radius: 10px;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
